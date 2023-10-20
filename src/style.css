@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+h1 {
+  text-shadow: 0cap;
+  padding: 50px;
+}
+body {
+  background-color: rgb(129, 207, 238);
+}
+button {
+  border-radius: 70%;
+}
